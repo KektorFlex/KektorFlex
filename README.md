@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KektorFlex
-- 👀 I'm practicing my Python skills here
 - 📫 dzhachvadze@gmail.com
 
 <!---
